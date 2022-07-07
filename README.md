@@ -1,5 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=justjd04" alt="justjd04" /> </p>
 ### Hi there 👋
-<p> <img src="https://komarev.com/ghpvc/?username=justjd04" alt="justjd04" /> </p>
+
 
 - 🔭 I’m currently working on SAP ABAP.
 - 🌱 I’m currently learning Cloud.
