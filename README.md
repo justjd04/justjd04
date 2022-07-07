@@ -8,7 +8,7 @@
 <p>- 🌱 I’m currently learning Cloud.</p>
 
 <br />
-<h2></h2>
+
 <h3>Certifications:</h3>
 
 
