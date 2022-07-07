@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 -->
 
 [![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/c890b83c-11f0-4b42-b589-8c37d2def895 "AWS Certified Solutions Architect - Associate")
+[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/100x100/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/82be0d7b-c809-4730-98cb-c0de759efeb4 "Microsoft Certified: Azure Administrator Associate")
