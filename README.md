@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Professional Certification: Certified Technical Specialist, Application Development](https://images.credly.com/size/100x100/images/d087a332-8b99-4bfd-9020-06a41e010158/badge-opencts-certified.png)](http://www.credly.com/badges/944b1c39-9352-48c2-bec7-3340b4c2973c "Professional Certification: Certified Technical Specialist, Application Development")
+[![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/c890b83c-11f0-4b42-b589-8c37d2def895 "AWS Certified Solutions Architect - Associate")
