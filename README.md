@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Professional Certification: Certified Technical Specialist, Application Development](https://images.credly.com/size/100x100/images/d087a332-8b99-4bfd-9020-06a41e010158/badge-opencts-certified.png)](http://www.credly.com/badges/944b1c39-9352-48c2-bec7-3340b4c2973c "Professional Certification: Certified Technical Specialist, Application Development")
