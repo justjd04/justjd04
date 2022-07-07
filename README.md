@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning Cloud.
 
 
-- ⚡ Certifications:
+
+<h4>Certifications:</h4>
 
 
 [![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/c890b83c-11f0-4b42-b589-8c37d2def895 "AWS Certified Solutions Architect - Associate")
