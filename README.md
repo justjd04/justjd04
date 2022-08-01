@@ -4,7 +4,7 @@
 <h2>Hi there👋</h2> 
 
 
-<p>- 🔭 I’m currently working on SAP ABAP.</p>
+<p>- 🔭 I’m currently working on SAP ABAP Development.</p>
 <p>- 🌱 I’m currently learning Cloud.</p>
 
 <br />
