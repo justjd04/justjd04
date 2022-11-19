@@ -4,8 +4,9 @@
 <h2>Hi there👋</h2> 
 
 
-<p>- 🔭 I’m currently working on SAP ABAP Development.</p>
-<p>- 🌱 I’m currently learning Cloud.</p>
+<p>- 🤫 I’m currently working on SAP ABAP Development.</p>
+<p>- 😤 I’m currently learning Cloud.</p>
+<p>- 😎 I have experience in SAP ABAP, ReactJS, JavaScript, TypeScript, NodeJS, PHP.</p>
 
 <br />
 
