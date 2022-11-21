@@ -22,11 +22,10 @@
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/100x100/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/82be0d7b-c809-4730-98cb-c0de759efeb4 "Microsoft Certified: Azure Administrator Associate")
 [![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/100x100/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)](https://www.credly.com/badges/d26d7421-0c50-4cf0-add8-3c190964abef "Microsoft Certified: Azure Security Engineer Associate")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/2fa25906-5cd4-4784-a4a4-66806bb0be1d "Microsoft Certified: Azure Fundamentals")
-[![Google Cloud Certified Cloud Digital Leader](<img src="https://user-images.githubusercontent.com/82485850/203015680-4404fdcd-4f30-49f4-bbc3-208af78dea0d.png" width="100" height="100">)](https://www.credential.net/409c4a1a-58f1-419a-ac84-617c6c1a8cb7 "Google Cloud Certified Cloud Digital Leader")
+[![Google Cloud Certified Cloud Digital Leader]<img src="https://user-images.githubusercontent.com/82485850/203015680-4404fdcd-4f30-49f4-bbc3-208af78dea0d.png" width="100" height="100">(https://www.credential.net/409c4a1a-58f1-419a-ac84-617c6c1a8cb7 "Google Cloud Certified Cloud Digital Leader")
 
 
-<img src="https://user-images.githubusercontent.com/82485850/203015680-4404fdcd-4f30-49f4-bbc3-208af78dea0d.png" width="100" height="100">(https://www.credential.net/409c4a1a-58f1-419a-ac84-617c6c1a8cb7 "Google Cloud Certified Cloud Digital Leader")
-
+<img src="https://user-images.githubusercontent.com/82485850/203015680-4404fdcd-4f30-49f4-bbc3-208af78dea0d.png" width="100" height="100">
 
 <!--
 **justjd04/justjd04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
