@@ -25,9 +25,6 @@
 [![Google Cloud Certified Cloud Digital Leader](https://www.credential.net/409c4a1a-58f1-419a-ac84-617c6c1a8cb7 "Google Cloud Certified Cloud Digital Leader")
 
 
-
-<img src="https://user-images.githubusercontent.com/82485850/203015680-4404fdcd-4f30-49f4-bbc3-208af78dea0d.png" width="100" height="100">
-
 <img src="https://user-images.githubusercontent.com/82485850/203015680-4404fdcd-4f30-49f4-bbc3-208af78dea0d.png" width="100" height="100" alt="https://www.credential.net/409c4a1a-58f1-419a-ac84-617c6c1a8cb7">
 
 <!--
