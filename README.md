@@ -14,6 +14,8 @@
 
 
 [![SAP Certified Development Specialist - ABAP for SAP HANA 2.0](https://images.credly.com/size/100x100/images/c404c861-c9d8-49d5-aa48-1e69fdb83f04/E_HANAAW_16.png)](https://www.credly.com/badges/09c44e7b-528a-4d52-bcfd-51ddb65c54ef "SAP Certified Development Specialist - ABAP for SAP HANA 2.0")
+[![Google Cloud Certified Professional Cloud Architect](https://github.com/justjd04/justjd04/blob/main/gcp-pca.png?raw=true)](https://www.credential.net/409c4a1a-58f1-419a-ac84-617c6c1a8cb7 "Google Cloud Certified Professional Cloud Architect")
+
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/100x100/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://www.credly.com/badges/e245a24e-aae3-45c5-ac55-11843d673561 "Microsoft Certified: Azure Solutions Architect Expert")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/100x100/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://www.credly.com/badges/8317b90d-9f0e-4800-a760-905b6c0b27a0 "Microsoft Certified: DevOps Engineer Expert")
 [![Microsoft Certified: Cybersecurity Architect Expert](https://images.credly.com/size/100x100/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)](https://www.credly.com/badges/8e23d92a-e3ea-4b04-8041-02bc3b8e685f "Microsoft Certified: Cybersecurity Architect Expert")
